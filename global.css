@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+  .font-bold {
+    @apply font-bold text-[CormorantGaramondBold];
+  }
+}
